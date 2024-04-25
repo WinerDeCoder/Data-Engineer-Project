@@ -1,8 +1,9 @@
 # Data-Engineer-Project
 The Project I have done when Participated in Data Engineer Course From AI4E. I used AWS service, all UI modification --> No Code.
 
-<img src="https://bigdatauni.com/wp-content/uploads/2018/11/thebank_internetbankingtechcombankmotchotatca_1516625559.jpg" alt="cplusplus" alt="bootstrap" width="500" height="300" align="center" />
-
+<p align="center">
+<img src="https://image.banker.vn/600x,q60/https://kinhtechungkhoan.vn/stores/news_dataimages/2022/122022/30/15/medium/bank20221230152137.jpg?rt=20221230152149?221230040652" width="500" alt="Screenshot of My Project">
+</p>
 
 ## Introduction
 * **Data is key to many human activities such as: bank, stock, social media, .... Actually, it should be called "BIG DATA". The problem is, how can we transport, transfer data from raw to the data we can use, just like the way me make delicious foods from raw ingredients. That's why we need data pipeline system for Storing, Transforming, Transporting, Extracting,... data.**
