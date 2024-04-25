@@ -1,6 +1,9 @@
 # Data-Engineer-Project
 The Project I have done when Participated in Data Engineer Course From AI4E. I used AWS service, all UI modification --> No Code.
 
+<img src="https://bigdatauni.com/wp-content/uploads/2018/11/thebank_internetbankingtechcombankmotchotatca_1516625559.jpg" alt="cplusplus" alt="bootstrap" width="500" height="300" align="center" />
+
+
 ## Introduction
 * **Data is key to many human activities such as: bank, stock, social media, .... Actually, it should be called "BIG DATA". The problem is, how can we transport, transfer data from raw to the data we can use, just like the way me make delicious foods from raw ingredients. That's why we need data pipeline system for Storing, Transforming, Transporting, Extracting,... data.**
 * **In this project, we will build a data pipeline for banking transaction, from Raw to "Cooked" data**
@@ -43,6 +46,10 @@ Assuming transaction data is store and update, adding continuously in a Database
 </p>
 
 ## Flow data step
+
+![image](https://github.com/WinerDeCoder/Data-Engineer-Project/assets/136697023/eb132f1c-0498-497b-be85-bb4513f0e006)
+
+
 ### Raw Zone
 * This is the landing zone for your initial, unprocessed data. Transaction from Database are crawled continuously to here.  
 * It acts as a storage repository for the data exactly as it's received from various sources, such as sensors, social media feeds, or log files.
@@ -63,6 +70,8 @@ Data Preparation: The refined transaction data is further prepared for specific 
   * Aggregation: Summarize transaction data by customer, account, product category, or time period.
   * Feature Engineering: Create new features from existing data for specific analytical purposes (e.g., average daily balance, spending patterns).
 Insight Zone Storage: The Insight Zone stores the prepared data in a format suitable for analytics tools. This could be a data warehouse for reporting and business intelligence or a dedicated platform for machine learning algorithms (e.g., fraud detection, customer segmentation).
+
+
 
 > [!NOTE}
 > More detail about my work can be found in the report
